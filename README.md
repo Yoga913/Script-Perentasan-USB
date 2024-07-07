@@ -1,5 +1,6 @@
 # Script-Perentasan-USB
 
+![Script-Perentasan-USB]()
 **Deskripsi**:
 
 Repositori ini menampung skrip untuk:
