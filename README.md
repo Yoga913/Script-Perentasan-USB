@@ -1,9 +1,10 @@
 # Script-Perentasan-USB
 
-**Deskripsi**: 
+**Deskripsi**:
+
 Repositori ini menampung skrip untuk:
 
-1. Usb RubberDucky yang terintegrasi dengan GPT OpenAI. 
+1.Usb RubberDucky yang terintegrasi dengan GPT OpenAI. 
 
 2.Usb Atorun yang terintegrasi dengan GPT OpenAI.
 
@@ -23,6 +24,7 @@ Repositori ini menampung skrip untuk:
 
 1.[Usb RubberDucky](https://github.com/Yoga913/Script-Perentasan-USB/blob/main/Usb%20RubberDucky/readme.ipynb)
 
+2.[Usb autorun](https://github.com/Yoga913/Script-Perentasan-USB/blob/main/Usb%20autorun/readme.ipynb)
 
 Ini adalah alat canggih yang dirancang khusus untuk peretas dan peneliti etis. Ini memadukan eksekusi cepat dengan kecerdasan canggih GPT.
 
