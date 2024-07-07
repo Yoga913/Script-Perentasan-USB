@@ -1,6 +1,7 @@
 # Script-Perentasan-USB
 
-![Script-Perentasan-USB]()
+![Script-Perentasan-USB](https://github.com/Yoga913/Script-Perentasan-USB/blob/main/banner.png)
+
 **Deskripsi**:
 
 Repositori ini menampung skrip untuk:
