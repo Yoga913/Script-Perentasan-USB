@@ -1,0 +1,3 @@
+[AutoRun]
+open=runme.bat
+action=Run the PowerShell script

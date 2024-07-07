@@ -1,0 +1,29 @@
+# Usb Autorun
+
+konsep ini mirip dengan perangkat USB Rubber Ducky.
+USB Rubber Ducky adalah alat yang menyerupai USB biasa tetapi bertindak sebagai perangkat HID (Human Interface Device),
+seperti keyboard, yang dapat menyuntikkan serangkaian perintah secara otomatis ke komputer target saat dicolokkan.
+Perangkat ini sering digunakan untuk pengujian penetrasi dan penelitian keamanan siber.
+
+1.Autorun.inf(di direktory root): File ini memberitahu Windows untuk menjalankan skrip ketika USB dihubungkan. Namun, perlu diingat bahwa fitur autorun sudah dinonaktifkan secara default pada versi Windows terbaru karena alasan keamanan.
+
+2.File Batch (.bat)(di direktory root): Skrip batch ini akan menjalankan perintah PowerShell yang sudah kita bahas.
+
+3.File PowerShell (.ps1)(di Direktory root): Mengandung skrip PowerShell yang akan dijalankan oleh file batch.
+
+# Catatan Penting:
+
+1.Keamanan: Menggunakan file autorun dan skrip yang dapat mengeksekusi kode otomatis dari USB dapat berbahaya dan sering kali diidentifikasi sebagai perilaku malware. Fitur autorun sendiri sudah dinonaktifkan pada banyak sistem modern untuk mencegah serangan seperti ini.
+
+Sebaiknya hanya digunakan untuk keperluan edukasi atau di lingkungan yang sudah mendapatkan izin eksplisit dari pemilik sistem.
+
+2.Edukasi dan Penelitian: Skrip ini hanya boleh digunakan dalam konteks pendidikan dan penelitian dengan izin eksplisit dari pemilik sistem yang diuji.
+
+3.Kunci API: Gantilah "YOUR_OPENAI_API_KEY" dengan kunci API OpenAI yang valid.
+
+4.Kompatibilitas: Pastikan pengguna memiliki hak administratif untuk menjalankan skrip PowerShell.
+
+5.Autorun.inf: Fitur autorun sudah dinonaktifkan pada banyak sistem modern. Pastikan untuk mengaktifkannya jika ingin menggunakan fitur ini, tetapi lakukan dengan hati-hati karena alasan keamanan.
+
+
+Pastikan untuk menguji skrip ini dalam lingkungan yang aman dan terkontrol.
