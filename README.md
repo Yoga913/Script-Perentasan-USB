@@ -19,6 +19,11 @@ Repositori ini menampung skrip untuk:
 - Keunggulan: Dapat dibuat dengan perangkat USB standar dan hanya membutuhkan skrip.
 - Kekurangan: Fitur autorun sudah dinonaktifkan di Windows modern untuk alasan keamanan.
 
+# Penggunaan:
+
+1.[Usb RubberDucky](https://github.com/Yoga913/Script-Perentasan-USB/blob/main/Usb%20RubberDucky/readme.ipynb)
+
+
 Ini adalah alat canggih yang dirancang khusus untuk peretas dan peneliti etis. Ini memadukan eksekusi cepat dengan kecerdasan canggih GPT.
 
 **🔐 Penggunaan Etis**: Selalu gunakan alat ini secara bertanggung jawab dan dengan izin yang tepat. Sangat penting untuk menghormati privasi dan keamanan sistem yang dapat Anda akses.
